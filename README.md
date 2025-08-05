@@ -3,7 +3,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahirumahakumburage&label=Profile%20views&color=0e75b6&style=flat" alt="lahirumahakumburage" /> </p>
+
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -97,7 +97,7 @@
 <br>
 
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=LahiruMahakumburage&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LahiruMahakumburage&theme=tokyonight) |
+| ![Lahiru's github stats](https://github-readme-stats.vercel.app/api?username=LahiruMahakumburage&show_icons=true&theme=tokyonight) | ![Lahiru GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LahiruMahakumburage&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruMahakumburage&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=LahiruMahakumburage&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
