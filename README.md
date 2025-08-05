@@ -96,16 +96,14 @@
 ---
 <br>
 
-
 | ![Lahiru's github stats](https://github-readme-stats.vercel.app/api?username=LahiruMahakumburage&show_icons=true&theme=tokyonight) | ![Lahiru GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LahiruMahakumburage&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruMahakumburage&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=LahiruMahakumburage&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruMahakumburage&layout=compact&langs_count=10&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=LahiruMahakumburage&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 
 <br>
----
 
 <h3 align="center">Support:</h3>
 <div align="center">
