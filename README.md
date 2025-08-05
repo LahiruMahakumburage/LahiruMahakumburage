@@ -1,8 +1,8 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Lahiru Mahakumburage</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 ---
-
 
 
 - 🌱 I’m currently learning **Flutter**
@@ -96,11 +96,9 @@
 ---
 <br>
 
-| ![Lahiru's github stats](https://github-readme-stats.vercel.app/api?username=LahiruMahakumburage&show_icons=true&theme=tokyonight) | ![Lahiru GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LahiruMahakumburage&theme=tokyonight) |
+| ![Lahiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LahiruMahakumburage&show_icons=true&theme=tokyonight) | ![Lahiru GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LahiruMahakumburage&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruMahakumburage&layout=compact&langs_count=10&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=LahiruMahakumburage&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
+| <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LahiruMahakumburage&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" /> | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=LahiruMahakumburage&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <br>
